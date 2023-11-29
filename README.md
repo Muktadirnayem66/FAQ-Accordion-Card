@@ -20,7 +20,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 The main challenge:
 
-- the main challenge which i face this project that are gradient apply with tailwind css.
+- The main challenge which i face this project that are gradient apply with tailwind css.
 
 
 ### Screenshot
