@@ -2,6 +2,7 @@
 import './App.css'
 import FaqImage from './components/Faq-image';
 import FaqText from './components/Faq-text';
+import BoxImage from '../images/illustration-box-desktop.svg'
 
 const App = () => {
 
@@ -17,7 +18,7 @@ const App = () => {
       
     </div>
     <div>
-    <img className=" sm:hidden absolute left-[5rem]  z-50 top-56 " src="../images/illustration-box-desktop.svg" alt="" />
+    <img className=" sm:hidden absolute left-[5rem]  z-50 top-56 " src={BoxImage} alt="" />
     </div>
     </div>
   );
