@@ -25,11 +25,7 @@ The main challenge:
 
 ### Screenshot
 
-![faq 1](https://github.com/Muktadirnayem66/FAQ-Accordion-Card/assets/76747765/4cd458f6-df6d-4476-a7d7-5c4a351c5f51)
 
-![faq 2](https://github.com/Muktadirnayem66/FAQ-Accordion-Card/assets/76747765/9bb97067-1708-4715-a068-16a65b85536b)
-
-![faq 3](https://github.com/Muktadirnayem66/FAQ-Accordion-Card/assets/76747765/097e9d24-258e-462b-8af4-240f7c2d92b1)
 
 
 
